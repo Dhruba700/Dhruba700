@@ -6,7 +6,7 @@
 # Hi, I'm Dhrubajoti Adhikari 👋
 
 **Biomedical Engineer** · **IoT & AI Enthusiast**  
-I build smart healthcare solutions by merging **biomedical instrumentation**, **IoT**, and **machine learning**.  
+I enhance smart healthcare solutions by merging **biomedical instrumentation**, **IoT**, and **machine learning**.  
 
 ---
 
@@ -20,7 +20,8 @@ I build smart healthcare solutions by merging **biomedical instrumentation**, **
 
 ## 🚀 Featured Projects
 - **Health Ninja: Smart Device for Early Detection of Cardiopathy and Induced Stress Condition** — IoT device for cardiopathy detection (ESP32, MAX30100, AD8232, ML)  
-- **Dehydration Monitoring System** — Uses temperature, humidity & GSR sensors to detect dehydration  
+- **Dehydration Monitoring System** — Uses temperature, humidity & GSR sensors to detect dehydration
+- **Li-Fi** - wireless transfer of huge amount of data by help of light energy 
 
 > 👉 I’ll pin these repos on my profile for quick access.
 
@@ -40,6 +41,8 @@ I build smart healthcare solutions by merging **biomedical instrumentation**, **
 ---
 
 ## 📫 Contact
-**LinkedIn:** _https://www.linkedin.com/in/dhrubajoti-adhikari_ • **Email:** _adhikaridhrubo@gmail.com_  
+**LinkedIn:**_https://linkedin.com/in/dhrubajoti-adhikari-20b793250_
+ **Email:** _adhikaridhrubo@gmail.com_ 
+ 
 *“Code is my stethoscope — I debug health.”*
 
