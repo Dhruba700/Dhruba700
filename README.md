@@ -38,6 +38,9 @@
 ## 📜 Certifications
 - **Python Programming (30 hours)** — Euphoria GenX
 - **Application of Machine Learning in healthcare (30 hours)** - Ardent Computech Pvt. Ltd.
+- **AWS Certified Machine Learning - Specialty**
+- **Embedded System Developer Virtual Internship by Microchip Technology Inc.**
+
 
 ---
 
