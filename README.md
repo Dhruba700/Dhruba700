@@ -5,8 +5,9 @@
 
 # Hi, I'm Dhrubajoti Adhikari 👋
 
-**Biomedical Engineer** · **IoT & AI Enthusiast**  
-I enhance smart healthcare solutions by merging **biomedical instrumentation**, **IoT**, and **machine learning**.  
+**4th-year Biomedical Engineering Student**  
+**IoT & AI Enthusiast, passionate about Healthcare Devices and Machine Learning**  
+-I enhance smart healthcare solutions by merging **biomedical instrumentation**, **IoT**, and **machine learning**.  
 
 ---
 
