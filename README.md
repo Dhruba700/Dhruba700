@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="Banner.png" alt="Dhrubajoti Adhikari — Biomedical Engineer | IoT & AI" width="80%">
+  <img src="Banner.png" alt="Dhrubajoti Adhikari — Biomedical Engineer | IoT & AI" width="70%">
 </p>
 
 # Hi, I'm Dhrubajoti Adhikari 👋
